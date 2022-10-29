@@ -1,0 +1,23 @@
+{
+  "name": "asj2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lomachenko84/asj2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lomachenko84/asj2/issues"
+  },
+  "homepage": "https://github.com/Lomachenko84/asj2#readme",
+  "dependencies": {
+    "@lomachenko84/ajs": "^1.0.0"
+  }
+}
